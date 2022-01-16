@@ -1,0 +1,18 @@
+.text_images_and_result{
+    border-radius: 10px;
+    background-color: rgb(231, 209, 85);
+    border: 3px solid black ;
+    margin: 20px;
+    width: 70%;
+}
+body{
+    background-color: blueviolet;
+}
+.img-responsive{
+    width: 200px;
+    height: 200px;
+}
+img{
+    width:50x;
+    height:50px;
+}
